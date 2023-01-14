@@ -1,0 +1,22 @@
+.nav-bar {
+  border-bottom: 5px solid red;
+}
+
+.logo {
+  max-height: 100px;
+  max-width: 100px;
+  background-color: blue;
+}
+
+.blue-box {
+  max-height: 100px;
+  max-width: 100px;
+  background-color: blue;
+}
+
+.nav-links {
+  display: flex;
+  direction: row;
+  list-style: none;
+  justify-content: space-around;
+}
